@@ -1,15 +1,22 @@
 using System.Diagnostics;
 using Intranet.Models;
+using Intranet.Repositorios;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Intranet.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IContatoRepositorio _contatoRepositorio;
 
+        public HomeController(IContatoRepositorio contatoRepositorio)
+        {
+            _contatoRepositorio = contatoRepositorio;
+        }
         public IActionResult Index()
         {
-            return View();
+            var lista = _contatoRepositorio.Listar();
+            return View(lista);
         }
 
         public IActionResult Privacy()

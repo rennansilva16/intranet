@@ -1,9 +1,17 @@
+using Intranet.Data;
+using Intranet.Repositorios;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<BancoContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ContatoConnection")));
+builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

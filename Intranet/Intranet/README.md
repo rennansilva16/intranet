@@ -20,18 +20,18 @@
 ---
 
 ## **3️⃣ Criar os Controllers dos Contatos**
-1. Criar o **controller `ContatoController`**.
-2. Implementar os métodos de redirecionamento entre as views (Index, Criar, Editar, Excluir).
-3. Testar a navegação entre as páginas.
+1. Criar o **controller `ContatoController`**. (feito)
+2. Implementar os métodos de redirecionamento entre as views (Criar, Editar, Excluir). (feito)
+3. Testar a navegação entre as páginas. (feito)
 
 ---
 
 ## **4️⃣ Persistência dos Contatos no Banco de Dados (Entity Framework)**
-1. Criar a **classe `Contato`** com os atributos necessários.
-2. Criar a **classe `AppDbContext`** para gerenciar a conexão com o banco.
-3. Configurar a **conexão com o banco de dados** no `appsettings.json`.
-4. Criar as **interfaces e repositórios** para gerenciar os contatos.
-5. Implementar os **métodos de CRUD** no `ContatoController`.
+1. Criar a **classe `Contato`** com os atributos necessários. (feito)
+2. Criar a **classe `AppDbContext`** para gerenciar a conexão com o banco. (feito)
+3. Configurar a **conexão com o banco de dados** no `appsettings.json`. (feito)
+4. Criar as **interfaces e repositórios** para gerenciar os contatos. (feito)
+5. Implementar os **métodos de CRUD** no `ContatoController`. (feito)
 6. Atualizar a view para exibir os contatos do banco **dinamicamente** com `@model`.
 
 ---

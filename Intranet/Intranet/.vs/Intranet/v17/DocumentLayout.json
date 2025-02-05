@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\contato\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\wwwroot\\css\\contato.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:wwwroot\\css\\contato.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,50 +78,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Excluir.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Excluir.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Excluir.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Excluir.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Excluir.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T23:29:58.28Z",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:12:57.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Adicionar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Adicionar.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Adicionar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T23:29:27.186Z",
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\ContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\ContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:52:12.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\IContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:50:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Data\\BancoContext.cs",
+              "RelativeToolTip": "Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:47:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "Models\\ContatoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:44:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:28:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T13:50:15.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Adicionar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T23:29:27.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-04T13:51:11.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:41:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T11:06:55.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T23:43:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
@@ -110,46 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Excluir.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Excluir.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Excluir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T23:43:27.494Z",
+              "WhenOpened": "2025-02-04T23:29:58.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-04T13:51:11.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T23:28:09.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "contato.css",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\contato.css",
@@ -162,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -175,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -183,19 +298,8 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T23:43:23.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:41:20.996Z"
+              "WhenOpened": "2025-02-03T23:43:23.176Z",
+              "EditorCaption": ""
             }
           ]
         }
