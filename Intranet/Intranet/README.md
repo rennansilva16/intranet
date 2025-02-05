@@ -32,13 +32,13 @@
 3. Configurar a **conexão com o banco de dados** no `appsettings.json`. (feito)
 4. Criar as **interfaces e repositórios** para gerenciar os contatos. (feito)
 5. Implementar os **métodos de CRUD** no `ContatoController`. (feito)
-6. Atualizar a view para exibir os contatos do banco **dinamicamente** com `@model`.
+6. Atualizar a view para exibir os contatos do banco **dinamicamente** com `@model`. (feito)
 
 ---
 
 ## **5️⃣ Exibição Dinâmica dos Contatos**
-1. **Atualizar a tabela** para exibir os contatos usando `@model`.
-2. Testar as funcionalidades de **adicionar, editar e remover** contatos **dinamicamente**.
+1. **Atualizar a tabela** para exibir os contatos usando `@model`. (feito)
+2. Testar as funcionalidades de **adicionar, editar e remover** contatos **dinamicamente**. 
 3. Garantir que **não há redirecionamentos desnecessários**.
 
 ---

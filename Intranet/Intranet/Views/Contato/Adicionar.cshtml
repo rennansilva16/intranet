@@ -15,10 +15,12 @@
 				<option value="Sigilo">Sigilo</option>
 				<option value="RH">RH</option>
 			</select>
+			@Html.ValidationMessageFor(model => model.Divisao)
 		</div>
 		<div class="form-group">
 			<label for="nome">Nome</label>
 			<input type="text" asp-for="Nome" class="form-control" id="nome" placeholder="Nome">
+			@Html.ValidationMessageFor(model => model.Nome)
 		</div>
 		<div class="form-group">
 			<label for="ramal">Ramal</label>
@@ -27,16 +29,18 @@
 		<div class="form-group">
 			<label for="email">E-mail</label>
 			<input type="email" asp-for="Email" class="form-control" id="email" placeholder="E-mail">
+			@Html.ValidationMessageFor(model => model.Email)
 		</div>
 		<div class="form-group">
 			<label for="celular">Celular</label>
 			<input type="text" asp-for="Celular" class="form-control" id="celular" placeholder="Celular">
+			@Html.ValidationMessageFor(model => model.Celular)
 		</div>
 		<div class="form-group">
 			<label for="aniversario">Aniversário</label>
 			<input type="date" asp-for="Aniversario" class="form-control" id="aniversario" placeholder="Aniversário">
 		</div>
 		<button type="submit" class="btn btn-primary d-block w-100 mb-2">Salvar</button>
-		<a asp-controller="Home" asp-action="Index" class="btn btn-secondary d-block w-100">Cancelar</a>
+		<a asp-controller="Home" asp-action="Index" class="btn btn-secondary d-block w-100">Voltar</a>
 	</form>
 </div>

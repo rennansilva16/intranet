@@ -1,5 +1,6 @@
 ﻿using Intranet.Data;
 using Intranet.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Intranet.Repositorios
 {
@@ -24,16 +25,45 @@ namespace Intranet.Repositorios
 
         }
 
+        public ContatoModel ListarPorId(int id)
+        {
+            return _context.Contatos.FirstOrDefault(x => x.Id == id);
+        }
+
         public ContatoModel Editar(ContatoModel contato)
         {
-            throw new NotImplementedException();
+            ContatoModel contatoDB = ListarPorId(contato.Id);
+
+            if(contatoDB == null) throw new System.Exception("Contato não encontrado");
+
+            contatoDB.Nome = contato.Nome;
+            contatoDB.Email = contato.Email;
+            contatoDB.Telefone = contato.Telefone;
+            contatoDB.Celular = contato.Celular;
+            contatoDB.Aniversario = contato.Aniversario;
+            contatoDB.Divisao = contato.Divisao;
+
+            _context.Update(contatoDB);
+            _context.SaveChanges();
+
+            return contatoDB;
         }
 
-        public ContatoModel Excluir(ContatoModel contato)
+        public bool Excluir(int id)
         {
-            throw new NotImplementedException();
+            ContatoModel contatoDB = ListarPorId(id);
+
+            if (contatoDB == null) throw new Exception("Houve um erro na deleção do contato");
+
+            _context.Contatos.Remove(contatoDB);
+            _context.SaveChanges();
+
+            return true;
         }
 
-        
+        public async Task<List<ContatoModel>> ListarAsync()
+        {
+            return await _context.Contatos.ToListAsync();
+        }
     }
 }

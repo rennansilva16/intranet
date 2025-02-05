@@ -5,9 +5,11 @@ namespace Intranet.Repositorios
 {
     public interface IContatoRepositorio
     {
-        public List<ContatoModel> Listar();
-        public ContatoModel Adicionar(ContatoModel contato);
-        public ContatoModel Editar(ContatoModel contato);
-        public ContatoModel Excluir(ContatoModel contato);
+        ContatoModel ListarPorId(int id);
+        ContatoModel Editar(ContatoModel contato);
+        List<ContatoModel> Listar();
+        ContatoModel Adicionar(ContatoModel contato);
+        bool Excluir(int id);
+        Task<List<ContatoModel>> ListarAsync();
     }
 }

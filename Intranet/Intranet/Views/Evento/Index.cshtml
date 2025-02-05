@@ -1,0 +1,31 @@
+﻿@model List<Intranet.Models.EventoModel>
+
+<h2>Eventos</h2>
+<a class="btn btn-primary" asp-action="Criar">Adicionar Evento</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Data Início</th>
+            <th>Data Fim</th>
+            <th>Participante</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var evento in Model)
+        {
+            <tr>
+                <td>@evento.Titulo</td>
+                <td>@evento.DataInicio.ToShortDateString()</td>
+                <td>@(evento.DataFim?.ToShortDateString() ?? "Não informado")</td>
+                <td>@evento.Participante.Nome</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Editar" asp-route-id="@evento.Id">Editar</a>
+                    <a class="btn btn-danger" asp-action="Deletar" asp-route-id="@evento.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

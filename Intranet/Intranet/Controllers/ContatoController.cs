@@ -17,21 +17,42 @@ namespace Intranet.Controllers
             return View();
         }
 
-        public IActionResult Editar()
+        public IActionResult Editar(int id)
         {
-            return View();
+            ContatoModel contato = _contatoRepositorio.ListarPorId(id);
+            return View(contato);
         }
 
-        public IActionResult Excluir()
+        public IActionResult ExcluirConfirmacao(int id)
         {
-            return View();
+            ContatoModel contato = _contatoRepositorio.ListarPorId(id);
+            return View(contato);
+        }
+
+        public IActionResult Excluir(int id)
+        {
+            _contatoRepositorio.Excluir(id);
+            return RedirectToAction("Editar");
         }
 
         [HttpPost]
         public IActionResult Adicionar(ContatoModel contato)
         {
-            _contatoRepositorio.Adicionar(contato);
-            return RedirectToAction("Adicionar");
+            if (ModelState.IsValid)
+            {
+                _contatoRepositorio.Adicionar(contato);
+                return RedirectToAction("Editar");
+            }
+            return View(contato);
+
+
+        }
+
+        [HttpPost]
+        public IActionResult Editar(ContatoModel contato)
+        {
+            _contatoRepositorio.Editar(contato);
+            return RedirectToAction("Editar");
         }
     }
 }
