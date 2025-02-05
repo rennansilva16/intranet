@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7UmEwCiBf7o2MYjhZWyhzdzD39ycsyvjDQGwqWuQW/4=",
+  "Hash": "j1YDhJzwdInw9wk9Dg79Gw1MAbpnFFkgGnUfXTm7n9k=",
   "Source": "Intranet",
   "BasePath": "_content/Intranet",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Intranet.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
+      "SourceId": "Intranet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\",
+      "BasePath": "_content/Intranet",
+      "RelativePath": "css/contato#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contato.css"
     },
     {
       "Identity": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\site.css",
@@ -1320,6 +1341,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/contato.3r8b2a0bt1.css",
+      "AssetFile": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 23:15:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/contato.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "css/contato.css",
+      "AssetFile": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 23:15:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
     {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\site.css",

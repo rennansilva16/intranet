@@ -1,20 +1,20 @@
 ﻿# **📌 Passo a Passo do Projeto**
 
 ## **1️⃣ Construção da Interface dos Contatos (Sem Banco de Dados)**
-1. Criar a **view `Index.cshtml`** para exibir a **tabela de contatos**.
-   - Escolher um modelo de **tabela Bootstrap**.
-   - Adicionar colunas para os dados dos contatos.
-   - Criar pelo menos **dois contatos de exemplo** na tabela.
-   - Adicionar um **botão “Adicionar Contato”** no canto superior direito.
-   - Adicionar **ícones de editar e excluir** ao lado de cada contato.
-2. Criar uma **view para adicionar um novo contato**.
-3. Criar uma **view para editar um contato existente**.
-4. Criar uma **view para excluir um contato existente** (pode ser um modal de confirmação).  
+1. Editar a **view `Index.cshtml`** para exibir a **tabela de contatos**. (feito)
+   - Escolher um modelo de **tabela Bootstrap**. (feito)
+   - Adicionar colunas para os dados dos contatos. (feito)
+   - Criar pelo menos **dois contatos de exemplo** na tabela. (feito)
+   - Adicionar um **botão “Adicionar Contato”** no canto superior direito. (feito)
+   - Adicionar **ícones de editar e excluir** ao lado de cada contato. (feito)
+2. Criar uma **view para adicionar um novo contato**. (feito)
+3. Criar uma **view para editar um contato existente**. (feito)
+4. Criar uma **view para excluir um contato existente** (pode ser um modal de confirmação).  (feito)
 
 ---
 
 ## **2️⃣ Criação da Classe `Participante`**
-1. Criar a **classe `Participante`** para reutilizar em contatos e eventos.
+1. Criar a **classe `Contato`**.
 2. Definir os atributos necessários para a classe.
 
 ---
