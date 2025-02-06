@@ -14,7 +14,6 @@ public class ContatoModel
     [EmailAddress(ErrorMessage = "Informe um email válido.")]
     public string Email { get; set; }
     [Required(ErrorMessage = "Informe o telefone do contato.")]
-    [Phone(ErrorMessage = "Informe um número de telefone válido.")]
     public int Celular { get; set; }
     public DateOnly Aniversario { get; set; }
 

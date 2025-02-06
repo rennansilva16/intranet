@@ -38,8 +38,8 @@
 
 ## **5️⃣ Exibição Dinâmica dos Contatos**
 1. **Atualizar a tabela** para exibir os contatos usando `@model`. (feito)
-2. Testar as funcionalidades de **adicionar, editar e remover** contatos **dinamicamente**. 
-3. Garantir que **não há redirecionamentos desnecessários**.
+2. Testar as funcionalidades de **adicionar, editar e remover** contatos **dinamicamente**. (feito)
+3. Garantir que **não há redirecionamentos desnecessários**. (feito)
 
 ---
 

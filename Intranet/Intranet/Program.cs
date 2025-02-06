@@ -1,6 +1,4 @@
 using Intranet.Data;
-using Intranet.Repositories.Interfaces;
-using Intranet.Repositories;
 using Intranet.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,7 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<BancoContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ContatoConnection")));
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
-builder.Services.AddScoped<IEventoRepository, EventoRepository>();
+builder.Services.AddScoped<IEventoRepositorio, EventoRepositorio>();
+
 
 
 // Add services to the container.

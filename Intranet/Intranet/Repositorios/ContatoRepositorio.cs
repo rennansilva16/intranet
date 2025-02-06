@@ -60,10 +60,5 @@ namespace Intranet.Repositorios
 
             return true;
         }
-
-        public async Task<List<ContatoModel>> ListarAsync()
-        {
-            return await _context.Contatos.ToListAsync();
-        }
     }
 }

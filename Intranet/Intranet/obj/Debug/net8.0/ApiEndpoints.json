@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "Intranet.Controllers.EventoApiController",
+    "Method": "GetEventos",
+    "RelativePath": "api/EventoApi/eventos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

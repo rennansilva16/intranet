@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Intranet.Controllers
 {
+  
     public class ContatoController : Controller
     {
         private readonly IContatoRepositorio _contatoRepositorio;

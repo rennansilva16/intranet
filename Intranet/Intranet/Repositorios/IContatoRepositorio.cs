@@ -10,6 +10,5 @@ namespace Intranet.Repositorios
         List<ContatoModel> Listar();
         ContatoModel Adicionar(ContatoModel contato);
         bool Excluir(int id);
-        Task<List<ContatoModel>> ListarAsync();
     }
 }

@@ -171,3 +171,11 @@ C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\runti
 C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\obj\Debug\net8.0\Intranet.csproj.Up2Date
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\FullCalendar.MVC5.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Laura\Rennan\projetos-trabalho\Intranet\Intranet\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll

@@ -9,10 +9,6 @@ namespace Intranet.Controllers
     public class HomeController : Controller
     {
         private readonly IContatoRepositorio _contatoRepositorio;
-        public async Task<List<ContatoModel>> ListarAsync()
-        {
-            return await _context.Contatos.ToListAsync();
-        }
 
 
         public HomeController(IContatoRepositorio contatoRepositorio)
@@ -20,9 +16,9 @@ namespace Intranet.Controllers
             _contatoRepositorio = contatoRepositorio;
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            var lista = await _contatoRepositorio.ListarAsync();
+            var lista = _contatoRepositorio.Listar();
             return View(lista);
         }
 

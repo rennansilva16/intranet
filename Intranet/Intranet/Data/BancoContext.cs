@@ -6,6 +6,7 @@ namespace Intranet.Data
     public class BancoContext : DbContext
     {
         public DbSet<ContatoModel> Contatos{ get; set; }
+        public DbSet<EventoModel> Eventos { get; set; }
         public BancoContext(DbContextOptions<BancoContext> options) : base(options)
         {
             

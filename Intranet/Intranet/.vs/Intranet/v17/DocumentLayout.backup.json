@@ -3,68 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\eventorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\eventorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\ieventorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\ieventorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\evento\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\evento\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\evento\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\evento\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\evento\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\evento\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\evento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\repositorios\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:repositorios\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:models\\eventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\wwwroot\\css\\contato.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -75,20 +71,8 @@
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\contato\\excluirconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\excluirconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BEAD91-99E0-4AD0-B4AD-1881D339417E}|Intranet.csproj|c:\\users\\laura\\rennan\\projetos-trabalho\\intranet\\intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -110,58 +94,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventoController.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\EventoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\EventoController.cs",
-              "RelativeToolTip": "Controllers\\EventoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EventoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\EventoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\EventoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\EventoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\EventoRepositorio.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:16:52.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T13:50:15.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:41:20.996Z",
+              "WhenOpened": "2025-02-06T03:29:43.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IContatoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\IContatoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\IContatoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Title": "EventoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\EventoModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventoModel.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\EventoModel.cs",
+              "RelativeToolTip": "Models\\EventoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:50:53.256Z",
+              "WhenOpened": "2025-02-06T03:26:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "Models\\ContatoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:44:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:31:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEventoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IEventoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IEventoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IEventoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\IEventoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:28:55.962Z",
               "EditorCaption": ""
             },
             {
@@ -172,7 +169,7 @@
               "RelativeDocumentMoniker": "Repositorios\\ContatoRepositorio.cs",
               "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\ContatoRepositorio.cs",
               "RelativeToolTip": "Repositorios\\ContatoRepositorio.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwEIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T10:52:12.717Z",
               "EditorCaption": ""
@@ -185,196 +182,53 @@
               "RelativeDocumentMoniker": "Data\\BancoContext.cs",
               "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Data\\BancoContext.cs",
               "RelativeToolTip": "Data\\BancoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T10:47:09.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\IContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:50:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T13:50:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T23:28:09.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\EventoRepository.cs",
-              "RelativeDocumentMoniker": "Repositorios\\EventoRepository.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\EventoRepository.cs",
-              "RelativeToolTip": "Repositorios\\EventoRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:15:00.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T23:43:27.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:12:57.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Deletar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Deletar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evento\\Deletar.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Deletar.cshtml",
-              "RelativeToolTip": "Views\\Evento\\Deletar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T15:19:43.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evento\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Editar.cshtml",
-              "RelativeToolTip": "Views\\Evento\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T15:19:15.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Criar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evento\\Criar.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Criar.cshtml",
-              "RelativeToolTip": "Views\\Evento\\Criar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T15:18:48.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Evento\\Index.cshtml",
-              "RelativeToolTip": "Views\\Evento\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T15:18:10.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IEventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IEventoRepository.cs",
-              "RelativeDocumentMoniker": "Repositorios\\IEventoRepository.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Repositorios\\IEventoRepository.cs",
-              "RelativeToolTip": "Repositorios\\IEventoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:14:19.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EventoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\EventoModel.cs",
-              "RelativeDocumentMoniker": "Models\\EventoModel.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\EventoModel.cs",
-              "RelativeToolTip": "Models\\EventoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:11:01.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Adicionar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Adicionar.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Adicionar.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T23:29:27.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "contato.css",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\contato.css",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
-              "RelativeToolTip": "wwwroot\\css\\contato.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-04T23:05:32.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ContatoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
-              "RelativeDocumentMoniker": "Models\\ContatoModel.cs",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Models\\ContatoModel.cs",
-              "RelativeToolTip": "Models\\ContatoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:44:03.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExcluirConfirmacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\ExcluirConfirmacao.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\ExcluirConfirmacao.cshtml",
-              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\ExcluirConfirmacao.cshtml",
-              "RelativeToolTip": "Views\\Contato\\ExcluirConfirmacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T23:29:58.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
@@ -387,20 +241,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:12:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T23:43:27.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:41:20.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-04T13:51:11.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:51:11.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\Adicionar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Adicionar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T23:29:27.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "contato.css",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\contato.css",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\contato.css",
+              "RelativeToolTip": "wwwroot\\css\\contato.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-04T23:05:32.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExcluirConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\ExcluirConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\ExcluirConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\Contato\\ExcluirConfirmacao.cshtml",
+              "RelativeToolTip": "Views\\Contato\\ExcluirConfirmacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T23:29:58.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -412,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -424,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Laura\\Rennan\\projetos-trabalho\\Intranet\\Intranet\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
